@@ -1,7 +1,9 @@
 # CrapGPT2-Markov
 A shitty pre-trained sentence generator based on markovify
 
-First version has around 20 MB of corpus data.
+Around 50 MB of training data!
+
+[Check out the Colab version here!](https://colab.research.google.com/drive/1NfD1zcKcsDvl8tnscf-IRP9yoCN7a1S4?usp=sharing)
 
 # Limitations
 
